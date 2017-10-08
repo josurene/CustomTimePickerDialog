@@ -8,7 +8,7 @@
         android:id="@+id/textView37"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Elija Hora"
+        android:text="Choose Hour"
         android:textAppearance="@android:style/TextAppearance.Material.Large" />
 
     <TimePicker
